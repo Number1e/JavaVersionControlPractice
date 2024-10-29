@@ -1,5 +1,5 @@
 public class Lingkaran {
-    private static final double PI = 3.14;
+    private static final double PI = 3.14231;
 
 
     public static double hitungLuas(double radius) {
